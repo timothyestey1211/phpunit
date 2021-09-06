@@ -24,20 +24,3 @@ Alternatively, you may use [Composer](https://getcomposer.org/) to download and 
 ## Contribute
 
 Please refer to [CONTRIBUTING.md](https://github.com/sebastianbergmann/phpunit/blob/master/.github/CONTRIBUTING.md) for information on how to contribute to PHPUnit and its related projects.
-
-## List of Contributors
-
-Thanks to everyone who has contributed to PHPUnit! You can find a detailed list of contributors on every PHPUnit related package on GitHub. This list shows only the major components:
-
-* [PHPUnit](https://github.com/sebastianbergmann/phpunit/graphs/contributors)
-* [php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage/graphs/contributors)
-
-A very special thanks to everyone who has contributed to the documentation and helps maintain the translations:
-
-* [English](https://github.com/sebastianbergmann/phpunit-documentation-english/graphs/contributors)
-* [Spanish](https://github.com/sebastianbergmann/phpunit-documentation-spanish/graphs/contributors)
-* [French](https://github.com/sebastianbergmann/phpunit-documentation-french/graphs/contributors)
-* [Japanese](https://github.com/sebastianbergmann/phpunit-documentation-japanese/graphs/contributors)
-* [Brazilian Portuguese](https://github.com/sebastianbergmann/phpunit-documentation-brazilian-portuguese/graphs/contributors)
-* [Simplified Chinese](https://github.com/sebastianbergmann/phpunit-documentation-chinese/graphs/contributors)
-
